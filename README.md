@@ -27,7 +27,6 @@ Columns used:
 - Total Revenue
 - Total Orders
 - Average Discount
-- Unique Customers
 - Revenue by Category
 - Monthly Sales Trend
 - Payment Method Distribution
